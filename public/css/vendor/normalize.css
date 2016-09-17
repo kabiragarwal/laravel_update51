@@ -1,0 +1,19 @@
+/* 
+    Document   : normalize
+    Created on : 23 Jul, 2016, 2:46:22 AM
+    Author     : Rahul
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+.normalize{
+    margin:0;
+}
+
+.body{
+    padding-top: 400px;
+}
+
+.test1{
+    color:blue;
+}
